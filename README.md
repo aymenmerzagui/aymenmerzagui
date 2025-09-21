@@ -11,7 +11,7 @@ I enjoy building tools, debugging kernels, and creating real-time systems that b
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40"/> 
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg](https://users.rust-lang.org/t/ideas-for-redesigning-the-rust-logo/26051)" width="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/> 
@@ -48,19 +48,6 @@ I enjoy building tools, debugging kernels, and creating real-time systems that b
 ### 🎓 Education  
 🎓 **ENSI (National School of Computer Science)** – CS Engineering Degree (2021–2024)  
 🎓 **IPEIT** – Physics & Chemistry Preparatory Program (2019–2021)  
-🎓 **Technical High School Medenine** – Baccalaureate in Experimental Sciences (2019, with Honors)  
-
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aymenmerzagui&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymenmerzagui&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aymenmerzagui&theme=tokyonight" height="160"/>
-</p>
 
 ---
 
