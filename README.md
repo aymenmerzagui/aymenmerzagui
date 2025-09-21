@@ -16,7 +16,7 @@ I enjoy building tools, debugging kernels, and creating real-time systems that b
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> 
-  <img src="https://wallpapers.com/images/featured/github-logo-png-s8wb6yxlatsyp8s1.jpg" width="40"/> 
+  <img src="https://wallpapers.com/images/featured/github-logo-png-s8wb6yxlatsyp8s1.jpg" width="100"/> 
   <img src="https://www.pngfind.com/pngs/m/94-945757_gitlab-logo-hd-png-download.png" width="40"/> 
 
 </p>
