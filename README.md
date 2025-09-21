@@ -1,7 +1,5 @@
 ## Hi there 👋 I'm Aymen  
 
-![Banner](https://via.placeholder.com/1000x200.png?text=Aymen+Merzagui+-+Software+Engineer)  
-
 🚀 Software & Embedded Systems Engineer passionate about **automotive software, embedded systems, and networking protocols**.  
 I enjoy building tools, debugging kernels, and creating real-time systems that bridge the gap between hardware and software.  
 
@@ -19,8 +17,9 @@ I enjoy building tools, debugging kernels, and creating real-time systems that b
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> 
-</p>
+  <img src="https://www.pngfind.com/pngs/m/94-945757_gitlab-logo-hd-png-download.png" width="40"/> 
 
+</p>
 ---
 
 ### 💼 Experience  
