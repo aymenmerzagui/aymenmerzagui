@@ -53,7 +53,7 @@ I enjoy building tools, debugging kernels, and creating real-time systems that b
 
 ### 📫 Let's Connect  
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40"/></a>
+  <a href="https://www.linkedin.com/in/aymen-merzagui/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>
+  <a href="mailto:aymen.merzagui.100@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40"/></a>
   <a href="https://github.com/aymenmerzagui"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/></a>
 </p>
